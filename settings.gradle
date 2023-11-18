@@ -1,0 +1,8 @@
+rootProject.name = 'FitnessCentre'
+include 'model'
+include 'generator'
+include 'serialization'
+include 'deserialization'
+include 'quaeries'
+include 'console_reader'
+
